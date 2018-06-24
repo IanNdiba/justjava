@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">justjava</string>
+    <string name="quantityView">quantity</string>
+    <string name="toppings">Toppings</string>
+    <string name="cream">Whipped Cream</string>
+    <string name="choco">Chocolate</string>
+    <string name="incrementButton">+</string>
+    <string name="display">0</string>
+    <string name="decrementButton">-</string>
+    <string name="displayPrice">10</string>
+    <string name="priceView">price</string>
+    <string name="orderSummary">Order Summary</string>
+    <string name="orderButton">order</string>
+    <string name="hintView">Enter your name</string>
+</resources>
